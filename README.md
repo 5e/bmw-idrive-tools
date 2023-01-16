@@ -1,4 +1,12 @@
 # bmw-idrive-tools
 tools to update your iDrive service history
+* BMW Service History Manager Lite by BlackBoxSys (original link: https://automotive.blackboxsys.com/dld/SHMLite.exe)
+* HU Service Manager by BMWTOOLS.INFO
 
-This repo was made just for myself to keep the links handy, if you're using this please do your own research if the tool(s) are compatible for your car and how to use them
+This repo was made just for myself to keep the links handy
+
+IF YOU'RE USING THIS PLEASE DO YOUR OWN RESEARCH IF THE TOOL(S) ARE COMPATIBLE FOR YOUR CAR AND HOW TO USE THEM
+
+https://www.youtube.com/watch?v=NPDY40S2S4k
+
+https://www.youtube.com/watch?v=Th80WZfnCwg
