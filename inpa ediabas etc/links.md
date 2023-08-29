@@ -8,6 +8,9 @@ BMW Standard Tools:
 https://www.e46fanatics.com/threads/how-to-install-bmw-standard-tools.1274003/#post-18752125
 https://drive.google.com/drive/folders/14WgdVn3p-339UQ84dsjVDOFBh0Mm-X9b
 
+BimmerGeeks Standard Tools:
+https://www.bimmergeeks.net/downloads
+
 
 
 
