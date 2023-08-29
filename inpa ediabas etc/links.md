@@ -12,6 +12,8 @@ https://drive.google.com/drive/folders/14WgdVn3p-339UQ84dsjVDOFBh0Mm-X9b
 
 
 Troubleshoot:
+
 C:/EDIABAS/bin/ediabas.ini
+
 
 Changed "Interface=STD:OBD" to "Interface=ENET" in ediabas.ini if using ENET
