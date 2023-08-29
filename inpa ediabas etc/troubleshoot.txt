@@ -1,0 +1,3 @@
+C:/EDIABAS/bin/ediabas.ini
+
+Changed "Interface=STD:OBD" to "Interface=ENET" in ediabas.ini if using ENET
